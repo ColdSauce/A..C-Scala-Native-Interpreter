@@ -10,6 +10,6 @@ Scala Native is still in very early stages of development so some features of th
 
 If you would like to run the REPL on the JVM, you can do so by running this project like how you would any other Scala project. First, you have to un-comment the features. 
 
-License is MIT. If you would like to use this in a commerical setting, feel free to. If you found this useful, send me a note on Runescape. Username: 60625
+License is MIT. If you would like to use this in a commercial setting, feel free to. If you found this useful, send me a note on Runescape. Username: 60625
 
 Thank you.
